@@ -1,1 +1,13 @@
+.header{
+        text-align: center;
+      display:grid;
+    justify-content: space-between;
+    background-color: #000000;
+    padding: 70px;
+    font-size: 20px;
+    font-family: fantasy;
+    font-weight: 400;
+    color: #ffffff;
+
+}
 
