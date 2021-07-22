@@ -6,9 +6,15 @@ border-radius: 20px;
   width: 310px;
   font-family: fantasy;
 }
-.thur{  border-radius: 20px;
+.thur{    border-radius: 20px;
         background-color: #ffffff;
         padding: 30px;
   margin: 25px;
   width: 310px;
-  font-family: fantasy;}
+  font-family: fantasy;
+.time{  border-radius: 20px;
+        background-color: #ffffff;
+        padding: 30px;
+  margin: 25px;
+  width: 310px;
+  font-family: fantasy;
