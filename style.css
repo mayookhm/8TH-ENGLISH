@@ -6,15 +6,41 @@ border-radius: 20px;
   width: 310px;
   font-family: fantasy;
 }
+.wed p{
+      position: absolute;
+      top: 70%;
+      left: 17%;
+      transform: translate(-50%,-50%);
+      opacity: 0;
+  }
+  .wed:hover p{
+    opacity: 1;
+}
+.wed:hover img{
+    opacity: 0.33;
+}
 .thur{    border-radius: 20px;
         background-color: #ffffff;
         padding: 30px;
   margin: 25px;
   width: 310px;
-  font-family: fantasy;
+  font-family: fantasy;}
+.thur p{
+      position: absolute;
+      top: 70%;
+      left: 17%;
+      transform: translate(-50%,-50%);
+      opacity: 0;
+  }
+  .thur:hover p{
+    opacity: 1;
+}
+.thur:hover img{
+    opacity: 0.33;
+}
 .time{  border-radius: 20px;
         background-color: #ffffff;
         padding: 30px;
   margin: 25px;
   width: 310px;
-  font-family: fantasy;
+  font-family: fantasy;}
